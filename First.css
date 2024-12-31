@@ -143,6 +143,7 @@ body {
 
 
 #back .greeting {
+    padding: 10px;
     line-height: 25px;
     text-align: center;
     padding-top: 60px;
@@ -154,7 +155,7 @@ body {
     color: gold;
     text-shadow: 0 5px 20px gold;
     font-size: 25px;
-    padding-left: 120px;
+    padding-left: 150px;
 
 }
 
